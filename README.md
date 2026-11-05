@@ -50,7 +50,7 @@ date display.
 
 </div>
 
-### ☀️ Light Mode
+### ☀️ [Light](README.md) Mode
 
 <div align="center">
 
